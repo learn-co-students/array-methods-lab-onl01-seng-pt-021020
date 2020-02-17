@@ -5,11 +5,11 @@ end
 def using_sort(array)
   array = ["wow" , "starve" , "I"]
   array.sort
-
 end
 
 def using_reverse(array)
-
+  array = ["I" , "love" , "arrays!"]
+  array.reverse
 end
 
 def using_first(array)
